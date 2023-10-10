@@ -1,12 +1,12 @@
 <h1>
     <a href="https://decomp.me">
-        <img alt="decomp.me" height="36" src="https://raw.githubusercontent.com/decompme/decomp.me/main/.github/decompme-logotype.svg" />
+        <img alt="decomp.us" height="36" src="https://raw.githubusercontent.com/decompme/decomp.me/main/.github/decompme-logotype.svg" />
     </a>
 </h1>
 
 [![Discord Server][discord-badge]][discord]
 
-[discord]: https://discord.gg/sutqNShRRs
+[discord]: TBA
 [discord-badge]: https://img.shields.io/discord/897066363951128586?color=%237289DA&logo=discord&logoColor=ffffff
 
 A collaborative decompilation and reverse engineering website, built with Next.js and Django.
@@ -19,4 +19,4 @@ To learn more, see [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
 
 ## License
-decomp.me uses the MIT license. All dependencies may contain their own licenses, which decomp.me respects.
+decomp.us uses the MIT license. All dependencies may contain their own licenses, which decomp.us respects.
